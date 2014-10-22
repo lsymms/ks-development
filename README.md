@@ -3,7 +3,7 @@ See: <a href="http://www.kuali.org/ks">http://www.kuali.org/ks</a>
 
 <h2>Intent</h2>
 
-This repository is an effort to maintain the commit history of KS after development from Kuali.org has stopped.  At this time there are no plans to maintain the project from the Kuali Foundation, the KualiCo organization, or from any other parties.  As there have been no decisions regarding timelines, scope, and intent with regards to supporting this codebase from KualiCo and the Kuali Foundation, we are creating this codebase as a means for other communities to support the codebase by making it publicly available.  If a community forms that wishes to maintain this codebase administration of this repository will be transferred to the new community.
+This repository is an effort to maintain the commit history of KS after development from Kuali.org has stopped.  As there have been no decisions regarding timelines, scope, and intent with regards to supporting this codebase from KualiCo and the Kuali Foundation, we are creating this codebase as a means for other communities to support the codebase by making it publicly available.  If a community forms that wishes to maintain this codebase administration of this repository will be transferred to the new community.
 
 <h2>Committing Code</h2>
 At this time, pull requests will remain unpushed until a community forms to govern the review, acceptance, and release policies.
